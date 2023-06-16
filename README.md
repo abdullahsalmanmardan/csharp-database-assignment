@@ -3,9 +3,7 @@
 
 ## Voditelj projekta:
 
-Ime i prezime | E-mail adresa (FOI) | JMBAG      | Github korisničko ime
-------------  | ------------------- | ---------- | ---------------------
-Ime i prezime |     jvuk21@foi.hr   | 0016154927 | VukJan
+
 
 # Opis domene
 
